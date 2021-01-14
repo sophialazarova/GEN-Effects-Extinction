@@ -6,6 +6,6 @@
 
 
 This repository contains the code used in my thesis project, including:
-- Blender simulation of a T-maze experiment
+- Blender simulation of the T-maze experiment
 - Implementation of the computational model used in the experiment
 - Analysis of the results 
