@@ -1,5 +1,5 @@
 # Generative Effects of Extinction Learning Emerging From an Embodied Associative Network.
-
+Computational modelling of extinction learning in rats based on associative network.
 ## Master Thesis, Ruhr University Bochum
 
 ![](sim.gif)
